@@ -5,6 +5,7 @@ if Time.now.hour = 23
   puts "you're in trouble"
 else
   puts "You can keep having fun"
+end
   
   
 curfew_checker
