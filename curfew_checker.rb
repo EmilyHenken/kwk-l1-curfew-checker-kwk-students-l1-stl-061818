@@ -1,5 +1,5 @@
 if Time.now.hour >= 23
-  puts "You are out past curfew!"
+  puts "you're in trouble"
 else
-  puts "You are not breaking the rules."
+  puts "you can keep having fun"
 end
